@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_TpA1QZClEeyrAaqiztGIMw" label="Navya_Project1" language="java" technicalLabel="NAVYA_PROJECT1" author="_TpA1QpClEeyrAaqiztGIMw" productVersion="Talend Cloud Data Fabric-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;git@github.com:Inceptica/Navya_Project.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_TpqVgJClEeyrAaqiztGIMw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_TpA1QpClEeyrAaqiztGIMw" login="navya.lade@nfr.inceptica.co" firstName="Navya" lastName="Lade" type="DQ"/>
+</xmi:XMI>
